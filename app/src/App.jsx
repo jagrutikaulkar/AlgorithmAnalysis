@@ -57,7 +57,6 @@ export default function App() {
               <Layers size={18} className="text-brand-400" />
               ML Model Training &amp; Analytics Platform
             </h1>
-            <p className="text-slate-400 text-xs mt-0.5">Final-Year Data Science Project · React + FastAPI + Scikit-learn</p>
           </div>
           <div className="flex items-center gap-3">
             {dataset && (
