@@ -26,16 +26,7 @@ npm --version
 
 ## 🚀 Quick Start
 
-### Option 1: Automatic Setup (Recommended)
-
-1. Open Command Prompt in the project directory
-2. Run the setup script:
-   ```bash
-   setup.bat
-   ```
-3. This will install all dependencies automatically
-
-### Option 2: Manual Setup
+### Setup Instructions
 
 **Step 1: Setup Backend**
 ```bash
@@ -52,17 +43,6 @@ cd ..
 ```
 
 ## ▶️ Running the Application
-
-### Option 1: Automatic Start (Recommended)
-
-1. Open Command Prompt in the project directory
-2. Run:
-   ```bash
-   run.bat
-   ```
-3. This will automatically open both servers in new terminal windows
-
-### Option 2: Manual Start
 
 **Terminal 1 - Backend Server:**
 ```bash
